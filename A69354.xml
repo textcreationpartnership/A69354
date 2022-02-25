@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King a proclamation for the better encouragement, and aduancement of the trade of the East-Indie Companie, and for preuention of excesse of priuate trade.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1632</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69354</idno>
+            <idno type="STC">STC 8985</idno>
+            <idno type="STC">ESTC S122792</idno>
+            <idno type="EEBO-CITATION">38159577</idno>
+            <idno type="OCLC">ocm 38159577</idno>
+            <idno type="VID">29189</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69354)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29189)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1924:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King a proclamation for the better encouragement, and aduancement of the trade of the East-Indie Companie, and for preuention of excesse of priuate trade.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[3] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, Printer to the Kings most Excellent Maiestie: and by the Assignes of Iohn Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M.DC.XXXI [1631, i.e. 1632]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Arms, containing lion and unicorn, and initials "C R" at top.</note>
+                  <note>"Giuen at the Court at Whithall, the nineteenth day of February, in the seuenth yeere of the Reigne of Souereigne Lord King Charles of England, Scotland, France and Jreland, Defender of the Faith, &amp;c."</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:29189:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 58 -->
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+                  <figDesc>royal blazon of the House of Stuart</figDesc>
+               </figure>
+            </head>
+            <head>
+               <g ref="char:leaf">❧</g> By the King. <g ref="char:leaf">❧</g> A Proclamation for the better encouragement, and aduancement of the Trade of the Eaſt Indie Companie, and for preuention of exceſſe of priuate Trade.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">H</seg>IS MAIESTIE taking notice of diuers abuſes which had beene</hi> practiſed by Commanders, Officers, Seruants, and others im<g ref="char:EOLhyphen"/>ployed by the Gouernour and Company of Merchants of <hi>London,</hi> trading into the <hi>Eaſt Indies,</hi> for their owne priuate vſe in the Ships of the ſaid Gouernour and Company, in the third yeere of His Reigne, by His Highneſſe Proclamation then publiſhed, did ſtraightly charge and command, that no particular man of the ſaid Company, nor any of their Officers or Seruants, or any other which then were, or then after ſhould be imployed in any of their Ships trading into the ſayd Eaſterly parts, or any other perſon or perſons whatſoeuer, ſhould from thencefoorth driue any vnderhand Trade, either to, in, or from the <hi>Indies</hi> aforeſayd, but ſuch as ſhould be Licenſed by the ſayd Company; And that ſuch Goods and Commodities as ſhould bee Imported, ſhould not bee diſpoſed of vntill the ſayd Company ſhould haue receiued an account, and giuen allowance thereof, and vntill that their Ships ſhould haue arriued at, or in the Port of <hi>London,</hi> within this Kingdome, nor that any perſon or perſons whatſoeuer, ſhould preſume to buy, contract, bargaine, or barter for, or re<g ref="char:EOLhyphen"/>ceiue, or take any of the Goods, Wares, or Merchandizes which ſhould bee laden aboard any of the ſaid Ships bound homeward, vntill ſuch Ship or Ships ſo homeward bound, as aforeſaid, or out of which ſuch Wares or Merchandizes ſhould be ſo bought, ſold, deliuered, contracted, or bartered for, were firſt brought into the ſaid Port of <hi>London,</hi> and thereby the allowance of the ſaid Company were duely entred, and the Goods thereout diſcharged, nor ſhould giue any aſſiſtance, helpe or encouragement, for the vnlading of any ſuch Goods at any other places, or in any other manner, nor ſhould otherwiſe offend in any thing contrary to the true meaning of the ſaid Pro<g ref="char:EOLhyphen"/>clamation, as thereby more at large it doth and may appeare.</p>
+            <p>
+               <pb facs="tcp:29189:2"/>
+               <!-- PDF PAGE 59 -->
+And although the ſaid Gouernor and Company for the better encouragement of all ſuch per<g ref="char:EOLhyphen"/>ſons as ſhould be employed by them in their Ships and Voyages, as Commanders, Factors, Captaines, Maſters, Officers, Mariners, or Souldiers, beſides the extraordinary great wages which they are accuſtomed to pay in their employments, haue giuen Licence vnto all &amp; euery ſuch perſon and perſons as aforeſaid, to aduenture and trade for their proper and priuate accompts, either to, in, or from the ſaid <hi>Indies,</hi> in any ſhip or ſhips, wherein they or any of them were, or ſhould bee perſonally employed, in ſuch wares and merchandize onely, and in ſuch quantities and proportions thereof, as in a Declaration of Orders made by the ſaid Gouernour and Com<g ref="char:EOLhyphen"/>pany, and allowed by His Maieſtie, are ſet downe and expreſſed, and as hereafter follow<g ref="char:EOLhyphen"/>eth, <hi>viz.</hi>
+            </p>
+            <p>The wares or Merchandize which are licenced to bee exported, are Perpetuanoes, Drapery Pewter, Saffron, Woollen-ſtockings, Silke-ſtockings, Silke-garters, and ribband Roſes', edged with gold-lace, Beauer-hats with gold and ſiluer bands, Felt-hats, Aquauite, and all other ſorts of Strong-waters, Kniues of all ſorts, Spaniſhleather-ſhooes, Iron, and Loo<g ref="char:EOLhyphen"/>king-glaſſes;</p>
+            <p>The Wares which are licenſed to bee brought from the <hi>Eaſt-Indies</hi> into <hi>England</hi> are, Long-Pepper, white Pepper, white powdred Suger, preſerued Nutmegs, preſerued Ginger, preſerued Mirabilons, Bezer-ſtones, Drugges of all ſorts, Aggat-beads, Bloodſtones, Muske, Aloes Soccatrina, Ambergreece, Rich Carpets of <hi>Perſia</hi> and <hi>Cambaia,</hi> Quilts of Satten, and of Taf<g ref="char:EOLhyphen"/>fitey, and of painted Callicoes, Beniamin, Damaskes, Sattens, and Taffities of <hi>China,</hi> Quilts of <hi>China</hi> imbroydered with gold, Quilts of <hi>Petauia</hi> imbroydered with ſilke, Galls, Wormſeedes, Sugercandy, China diſhes, and Puſlaines of all ſorts.</p>
+            <p>And whereas, each particular man imployed as aforeſaid, might heretofore lade and aduen<g ref="char:EOLhyphen"/>ture, for his owne priuate and proper Accompt, in the Wares and Merchandizes aforeſaid, and not otherwiſe, ſo much onely as could bee packed in one Cheſt of foure foot long, one foot and halfe broad, and one foot and a halfe deepe, and ſuch as were Commanders, Factors, Captaines, Maſters, Purſers, and Maſters mates of euery Ship, might haue a double proportion, that is to ſay, two Cheſts of the ſaid length, depth, and breadth, free from charge of freight; His Maieſtie finding that the ſaid Proclamation hath not as yet produced that good effect as was intended thereby: Neither hath the fauour and liberall allowance of the ſaid Company taken ſuch effect, but that the Officers, Factors, and Seruants imployed in the Voyages aforeſaid, for their owne priuate gaine, though to the common dammage of the ſaid Companie, haue aduen<g ref="char:EOLhyphen"/>tured both outwards and homewards, and alſo in the <hi>Indies,</hi> to carrie, buy, ſell, and barter di<g ref="char:EOLhyphen"/>uers other goods, wares, and merchandizes.</p>
+            <p>And beeing informed, that the ſaid Company are content to giue them further allowance, <hi>viz.</hi> To Commanders, Captaines, and Factors foure ſuch Cheſts a piece, to Maſters three ſuch Cheſts a piece, to euery of the Purſers mates, Maſters mates, Boatſwaines, Carpenters, Gun<g ref="char:EOLhyphen"/>ners, Stewards, to ſuch, two Cheſts a piece; Doth therefore ſtraightly Charge and Command all ſuch as are, or hereafter ſhall bee imployed in any Voyages for the ſaid Gouernor, and Company, whatſoeuer they bee, to yeeld due obedience in all things to the ſaid Proclamation, vnder the
+<pb facs="tcp:29189:3"/>
+               <!-- PDF PAGE 60 -->paines and penalties therein contained, and ſuch further paines as may bee inflicted vpon the of<g ref="char:EOLhyphen"/>fenders by the Lawes of this Realme; Willing, requiring, and authorizing the Gouernour and Company aforeſaid, to depute vnder their Common Seale, ſufficient and able perſons, to goe on board and ſearch all and ſinguler their Shippes and Veſſells, either outward or home<g ref="char:EOLhyphen"/>wards bound, aſwell vpon the Seas, as in the Port of <hi>London,</hi> and in all other Ports, Hauens, Rhodes, and places both in the Realme, as in the parts of <hi>India,</hi> and other places in the paſſage, or abiding of their Ships:</p>
+            <p>And if they ſhall finde any goods, wares, or merchandize to bee carried or put to ſale con<g ref="char:EOLhyphen"/>trary to the ſaid Proclamation, and not tolerated by the Order of the ſaid Company as afore<g ref="char:EOLhyphen"/>ſaid, or otherwiſe allowed by them, to take and ſeize them for the vſe of the ſaid Gouernour and Company. And all thoſe that ſhall be found contrariant and rebellious, to take, arreſt, impri<g ref="char:EOLhyphen"/>ſon, and detaine in priſon, vntill they ſhall be deliuered according to Our Lawes; And to cauſe their names, and the qualitie of their offences to bee deliuered to ſome of His Maieſties learned Councell, whom His Maieſtie doeth alſo hereby command and require, to exhibit one or more Informations in His Highneſſe Court of Star-chamber, or in any other His Maieſties Courts of Iuſtice, to the end that ſuch as ſhall be found Delinquents, may receiue condigne puniſh<g ref="char:EOLhyphen"/>ment for their offences iuſtly deſerued.</p>
+            <p>And His Maieſtie being ſo ſenſible of the inconueniences that attend vpon the ſaid abuſes be<g ref="char:EOLhyphen"/>fore mentioned, and intending to haue an abſolute reformation thereof, doth therefore hereby ſtraightly charge and command all Admirals, Viceadmirals, and other Officers of the Admi<g ref="char:EOLhyphen"/>raltie, and ſuch as haue Admirall iuriſdiction, and all Maiors, Portreeues, Sheriffs, Bayliffes, Cuſtomers, Comptrollers, Searchers, and all other his Officers whom it may concerne, that they and euery of them be carefull to preuent the ſaid abuſes, and to be ayding, helping and aſſiſting to the ſaid Gouernour and Company, their Officers or ſeruants, to be employed in the due execu<g ref="char:EOLhyphen"/>tion and performance of this His Maieſties Command, as they or any of them will anſwere the contrary at their perills.</p>
+            <closer>
+               <dateline>Giuen at the Court at <hi>Whithall,</hi> 
+                  <date>the nineteenth day of February, in the ſeuenth yeere of the Reigne of our Souereigne Lord King <hi>Charles</hi> of <hi>England, Scotland, France,</hi> and <hi>Jreland,</hi> Defender of the Faith, &amp;c.</date>
+               </dateline>
+               <lb/>
+God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings moſt Excellent MAIESTIE: and by the Aſsignes of Iohn Bill. M.DC.XXXI.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
